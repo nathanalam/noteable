@@ -1,5 +1,5 @@
 import { defineConfig } from 'vite';
 
 export default defineConfig({
-  base: '/notable/'
+  base: 'https://nathanalam.github.io/noteable/'
 });
